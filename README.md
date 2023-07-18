@@ -1,6 +1,6 @@
 # Belief_System_Study_with_CCA_PCA 
 
-MSc Computational Social Science Thesis Project. Entire thesis can be found as pdf named thesis.pdf.
+MSc Computational Social Science Thesis Project. Entire thesis can be found as pdf named Thesis_Joakim_Westerbring.pdf.
 
 This is a study of Political Belief Systems using the methods of Correlational Class Analysis(CCA), Principal Component Analysis(PCA) and Multinomial Logistic Regression and is using data from European Social Survey in Sweden from the year 2018. 
 
